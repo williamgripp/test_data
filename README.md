@@ -1,2 +1,1 @@
-# test_data
-testdata
+Test data for download
